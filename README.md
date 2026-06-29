@@ -68,9 +68,8 @@
 
 # 📊 Estatísticas
 
-> ⚠️ O GitHub Readme Stats está temporariamente indisponível. Quando voltar, descomente o código abaixo.
 
-<!--
+
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bercacos&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 
