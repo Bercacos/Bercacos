@@ -66,18 +66,15 @@
 
 ---
 
-# 📊 Estatísticas
-
-
+## 📊 Estatísticas
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bercacos&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bercacos&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Bercacos&theme=tokyonight" />
 </p>
--->
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bercacos&theme=tokyo-night" />
+</p>
 
 ## 📈 Contribuições
 
