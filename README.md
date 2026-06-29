@@ -72,10 +72,6 @@
   <img src="https://streak-stats.demolab.com?user=Bercacos&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bercacos&theme=tokyo-night" />
-</p>
-
 ## 📈 Contribuições
 
 <p align="center">
